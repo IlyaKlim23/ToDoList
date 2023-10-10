@@ -1,0 +1,15 @@
+C:\C# projects\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.deps.json
+C:\C# projects\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.dll
+C:\C# projects\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.DAL.pdb
+C:\C# projects\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.dll
+C:\C# projects\ToDoList\ToDoList.DAL\bin\Debug\net7.0\ToDoList.Domain.pdb
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.AssemblyInfo.cs
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.csproj.CopyComplete
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.dll
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\refint\ToDoList.DAL.dll
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ToDoList.DAL.pdb
+C:\C# projects\ToDoList\ToDoList.DAL\obj\Debug\net7.0\ref\ToDoList.DAL.dll
